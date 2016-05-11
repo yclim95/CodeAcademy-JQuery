@@ -75,3 +75,11 @@ jQuery is a **library**, or set of helpful add-ons, to the **JavaScript** progra
 2. jQuery provides a simple interface for the underlying JavaScript. It's easier for many users to learn jQuery first, then dive into the nitty-gritty JavaScript details later.
 
 3. jQuery is much better at giving you immediate, visual results than regular JavaScript. By the end of this lesson, you'll have built your own interactive button!
+
+
+## Lessons
+1. [Intro to JQuery]()
+
+## Resources 
+1. [JQuery API Documentions](https://api.jquery.com/)
+2. [JQuery UI Documentions](https://jqueryui.com/)
