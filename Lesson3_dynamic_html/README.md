@@ -342,7 +342,7 @@ $(document).ready(function(){
 ### 4. Modifying content 
 Update the contents of our HTML elements using 2 ways : -
 
-1. `.html()`
+**`.html()`**
 
 ```
 be used to set the contents of the first element match it finds, which is the content inside `.html()`. For instance,
@@ -361,7 +361,7 @@ $('div').html("I love jQuery!");
 will set the contents of the first div it finds to "I love jQuery!"
 
 
-2. .val()
+**`.val()`**
 
 ```
 used to get the value of form elements.
