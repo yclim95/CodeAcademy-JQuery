@@ -80,7 +80,7 @@ jQuery is a **library**, or set of helpful add-ons, to the **JavaScript** progra
 ## Lessons
 1. [Intro to JQuery](https://github.com/yclim95/CodeAcademy-JQuery/tree/master/Lesson1_intro_to_jquery)
 2. [Function & Selector](https://github.com/yclim95/CodeAcademy-JQuery/tree/master/Lesson2_function)
-3. [Dynamic HTML]()
+3. [Dynamic HTML](https://github.com/yclim95/CodeAcademy-JQuery/tree/master/Lesson3_dynamic_html)
 
 ## Resources 
 1. [JQuery API Documentions](https://api.jquery.com/)
